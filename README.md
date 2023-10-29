@@ -1,7 +1,5 @@
 # Sales-Data-analysis
 
-Certainly, here's an updated version of the introduction for your GitHub README.md:
-
 **Author - Raghav Anil Pillai**
 
 # Data-Driven Insights Dashboard
